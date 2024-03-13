@@ -1,0 +1,17 @@
+.oddN {
+    background-color: rgb(243, 159, 159);
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#big {
+    font-size: 24px;
+}
+
+#secondE {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourthE {
+    background-color: lightgreen;
+}

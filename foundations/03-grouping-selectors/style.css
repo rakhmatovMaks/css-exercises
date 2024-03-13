@@ -1,0 +1,15 @@
+.clickbutton {
+   background-color: black;
+   color: white;
+   font-weight: bold; 
+}
+
+.noclickbutton {
+    background-color: yellow;
+}
+
+.clickbutton,
+.noclickbutton {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
